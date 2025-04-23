@@ -1,0 +1,72 @@
+POLÍTICA DE PRIVACIDAD DE RADIO SANTA ANA
+
+Última actualización: Abril de 2025
+
+La presente Política de Privacidad describe cómo RADIO SANTA ANA (“nosotros”, “nuestra aplicación”, “la App”) recopila, utiliza, divulga y protege la información personal de los usuarios (“usted”) que utilizan nuestra aplicación móvil.
+
+ALCANCE DE LA POLÍTICA
+Esta Política de Privacidad se aplica a todos los usuarios de la aplicación Radio Santa Ana. Al utilizar la App, usted acepta las prácticas descritas en este documento.
+
+INFORMACIÓN QUE RECOPILAMOS
+1. Información Personal
+   Podemos recopilar información de identificación personal, incluyendo:
+   - Nombre completo
+   - Número telefónico (cuando se utiliza la función de llamada directa)
+   - Dirección de correo electrónico (opcional, si se habilitan formularios de contacto)
+   - Identificadores únicos de dispositivo
+
+2. Información No Personal
+   También podemos recopilar datos agregados o anónimos que no identifican directamente a un usuario individual, tales como:
+   - Datos de uso de la app (frecuencia de uso, duración, secciones más visitadas)
+   - Información del dispositivo (modelo, sistema operativo, resolución de pantalla)
+   - Dirección IP, zona horaria y ubicación geográfica aproximada
+
+USO DE LA INFORMACIÓN
+La información recopilada puede ser utilizada para los siguientes fines:
+- Proveer y mantener el funcionamiento de la App
+- Mejorar la experiencia del usuario
+- Diagnosticar errores técnicos y mejorar la estabilidad
+- Enviar notificaciones relacionadas con el servicio (si el usuario lo permite)
+- Cumplir con obligaciones legales o requerimientos judiciales
+
+PERMISOS DE LA APP
+Nuestra aplicación puede solicitar acceso a los siguientes permisos:
+- Acceso a Internet: Para la transmisión de radio en línea
+- Llamadas telefónicas: Para permitir la función de “Llamar” directamente desde la App
+- Almacenamiento: Para guardar grabaciones si el usuario utiliza esta función
+- Grabación de audio: Para permitir al usuario grabar mensajes u otros contenidos
+
+COMPARTICIÓN DE LA INFORMACIÓN
+No vendemos, alquilamos ni compartimos información personal con terceros, excepto en los siguientes casos:
+- Proveedores de servicios que colaboran con nosotros para operar y mantener la App (bajo acuerdos de confidencialidad)
+- Cumplimiento de requerimientos legales por parte de autoridades
+- Para proteger los derechos, propiedad y seguridad de Radio Santa Ana y nuestros usuarios
+
+SEGURIDAD
+Nos comprometemos a proteger la seguridad de su información. Utilizamos medidas físicas, técnicas y administrativas razonables para proteger los datos personales contra el acceso no autorizado, divulgación, alteración o destrucción.
+
+RETENCIÓN DE DATOS
+Retendremos su información durante el tiempo que sea necesario para cumplir con los fines establecidos en esta Política o según lo exijan las leyes aplicables.
+
+DERECHOS DEL USUARIO
+Usted tiene derecho a:
+- Acceder a su información personal
+- Solicitar la corrección de datos inexactos
+- Solicitar la eliminación de sus datos personales (sujeto a restricciones legales)
+- Retirar su consentimiento al tratamiento de sus datos
+
+PRIVACIDAD DE LOS MENORES
+Nuestra App no está dirigida a menores de 13 años. No recopilamos deliberadamente información personal de niños. Si descubrimos que hemos recopilado información de un menor sin el consentimiento de los padres, eliminaremos dicha información lo antes posible.
+
+ACTUALIZACIONES DE LA POLÍTICA
+Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento. Le notificaremos sobre cambios sustanciales mediante una notificación en la App o mediante otros medios adecuados.
+
+CONTACTO
+Si tiene preguntas o inquietudes sobre esta Política, puede comunicarse con nosotros en:
+
+Correo electrónico: contacto@radiosantaana.com
+Dirección: Turicato, Michoacán, México
+
+Gracias por confiar en nosotros.
+
+RADIO SANTA ANA
